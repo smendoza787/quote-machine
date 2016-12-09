@@ -1,0 +1,93 @@
+body {
+  background-color: #247291;
+}
+
+a,
+a:hover,
+a:visited {
+  color: white;
+}
+
+.credit {
+  margin-top: 10px;
+}
+
+footer {
+  margin: 50px;
+  text-align: center;
+}
+
+header {
+  color: white;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
+
+header h1 {
+  font-size: 60px;
+  text-shadow: 3px 3px 5px #000;
+}
+
+h2 {
+  margin: 0;
+}
+
+.quote-box {
+  background-color: rgba(0,0,0,0.25);
+  width: 75%;
+  margin: 50px auto;
+  border-radius: 25px;
+  padding: 25px;
+  box-shadow: 3px 3px 5px;
+  font-family: 'Lato', sans-serif;
+}
+
+#buttons {
+  text-align: center;
+}
+
+#author-here {
+  color: black;
+  margin-top: 30px;
+  margin-bottom: -60px;
+  text-align: right;
+}
+
+#quote-here {
+  margin-top: -50px;
+}
+
+#quote1 {
+  position: relative;
+  left: -50px;
+  top: -45px;
+  color: #F8DA5B;
+}
+
+#quote2 {
+  position: relative;
+  left: 100%;
+  top: 50px;
+  color: #F8DA5B;
+}
+
+#start-quote {
+  text-align: center;
+}
+
+.tech {
+  color: white;
+}
+
+.footer-icon {
+  color: white;
+}
+
+#jquerylogo {
+  height: 30px;
+  margin-top: -10px;
+}
+
+h2 {
+  color: white;
+}
